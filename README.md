@@ -1,6 +1,3 @@
-## Hi there! I'm Emilia
-
-
 ## Contact
 Email: emilia.github.8iete@simplelogin.com
 <!--
