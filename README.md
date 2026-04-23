@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there! I'm Emilia
 
+
+## Contact
+Email: emilia.github.8iete@simplelogin.com
 <!--
 **kocurel/kocurel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
