@@ -1,6 +1,6 @@
 
 ### Contact
-If you're interested in my hardware projects or you have a job offer for me, reach out here:
+If you're interested in my hardware projects or you have a job offer for me, feel free to reach out:
 
 **LinkedIn:** [Emilia Kozioł](https://www.linkedin.com/in/emilia-koziol-dev)
 
