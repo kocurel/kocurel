@@ -6,4 +6,4 @@ If you're interested in my hardware projects or you have a job offer for me, fee
 
 **Email:** [github@kocurel.dev](mailto:github@kocurel.dev)
 
-**Website** [kocurel.dev](https://www.kocurel.dev)
+**Website:** [kocurel.dev](https://www.kocurel.dev)
