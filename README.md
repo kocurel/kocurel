@@ -6,4 +6,4 @@ If you're interested in my hardware projects or you have a job offer for me, fee
 
 **LinkedIn:** [Emilia Kozioł](https://www.linkedin.com/in/emilia-koziol-dev)
 
-**Email:** [github@kocurel.dev](mailto:github@kocurel.dev)
+**Email:** github [at] kocurel.dev
